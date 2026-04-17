@@ -43,8 +43,8 @@ const SetupForm = ({ onComplete }) => {
           <Settings size={24} />
         </div>
         <div>
-          <h2 className="text-2xl font-bold text-white mb-1">Event Configuration</h2>
-          <p className="text-dim text-sm">Specify your guest list and table requirements.</p>
+          <h2 className="text-2xl font-bold text-white mb-1">ShubhMangal Events</h2>
+          <p className="text-dim text-sm">Design your perfect seating chart.</p>
         </div>
       </div>
 

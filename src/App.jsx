@@ -128,8 +128,8 @@ function App() {
             <Layout size={24} color="#0a0c10" />
           </div>
           <div>
-            <h1 className="text-xl mb-0" style={{ fontSize: '1.25rem', margin: 0 }}>SeatingMaster</h1>
-            <p className="text-xs text-dim">Premium Event Management</p>
+            <h1 className="text-xl mb-0 brand-text" style={{ fontSize: '1.35rem', margin: 0, fontWeight: 700, letterSpacing: '-0.02em' }}>ShubhMangal Events</h1>
+            <p className="text-xs text-accent/70 font-medium tracking-widest uppercase" style={{ fontSize: '0.65rem' }}>Seating Chart System</p>
           </div>
         </div>
 
@@ -185,7 +185,7 @@ function App() {
       </main>
 
       <footer className="p-6 text-center text-dim text-sm">
-        &copy; 2026 SeatingMaster AI. All rights reserved.
+        &copy; 2026 ShubhMangal Events. All rights reserved.
       </footer>
 
       {/* Reset Confirmation Modal */}
