@@ -280,7 +280,7 @@ input:focus, select:focus, textarea:focus {
 }
 
 @media (min-width: 1536px) {
-  .2xl\:grid-cols-4 { grid-template-columns: repeat(4, minmax(0, 1fr)); }
+  .xxl\:grid-cols-4 { grid-template-columns: repeat(4, minmax(0, 1fr)); }
 }
 
 /* Typography & Misc */
